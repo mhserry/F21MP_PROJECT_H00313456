@@ -1,0 +1,30 @@
+12/8/2021 12:07:04 PM 14788 Logging started
+12/8/2021 12:07:04 PM 14788 Already running
+12/8/2021 12:07:04 PM 14788 Logging ended
+12/8/2021 12:07:13 PM 15472 Check for updates
+12/8/2021 12:07:13 PM 15472 Update ICCup Antihack
+12/8/2021 12:07:13 PM 15472 Exception at: TIccPlugin.CheckForUpdates http.get(Update.info) class: EIdHTTPProtocolException msg: HTTP/1.1 403 Forbidden
+12/8/2021 12:07:13 PM 15472 Updateing APMAlert (1.16.1)
+12/8/2021 12:07:13 PM 15472 url: http://rockify.net/APMAlert/
+12/8/2021 12:07:14 PM 15472 Exception at: BwlUpdateCheck http.get(update) class: EIdHTTPProtocolException msg: HTTP/1.1 403 Forbidden
+12/8/2021 12:07:14 PM 15472 Updateing BWAPI 4.4.0 Injector [RELEASE]
+12/8/2021 12:07:14 PM 15472 Updateing BWAPI 4.4.0 Injector [DEBUG]
+12/8/2021 12:07:14 PM 15472 Updateing Chaosplugin for 1.16.1
+12/8/2021 12:07:14 PM 15472 url: http://winner.cspsx.de/Starcraft/Tool/Update/
+12/8/2021 12:07:14 PM 15472 Updateing LatencyChanger for 1.16.1
+12/8/2021 12:07:14 PM 15472 url: http://winner.cspsx.de/Starcraft/Tool/LatencyUpdate/
+12/8/2021 12:07:15 PM 15472 Updateing RepFix
+12/8/2021 12:07:15 PM 15472 url: http://www.iccup.com/
+12/8/2021 12:07:15 PM 15472 Exception at: BwlUpdateCheck http.get(update) class: EIdHTTPProtocolException msg: HTTP/1.1 301 Moved Permanently
+12/8/2021 12:07:15 PM 15472 Updateing RWAPlayer (1.16.1)
+12/8/2021 12:07:15 PM 15472 url: http://rockify.net/RWA/Player/
+12/8/2021 12:07:16 PM 15472 Exception at: BwlUpdateCheck http.get(update) class: EIdHTTPProtocolException msg: HTTP/1.1 403 Forbidden
+12/8/2021 12:07:16 PM 15472 Updateing RWARecorder (1.16.1)
+12/8/2021 12:07:16 PM 15472 url: http://rockify.net/RWA/Recorder/
+12/8/2021 12:07:16 PM 15472 Exception at: BwlUpdateCheck http.get(update) class: EIdHTTPProtocolException msg: HTTP/1.1 403 Forbidden
+12/8/2021 12:07:16 PM 15472 Updateing Stormplugin for 1.16.1
+12/8/2021 12:07:16 PM 15472 url: http://winner.cspsx.de/Starcraft/Tool/StormUpdate/
+12/8/2021 12:07:16 PM 15472 Updateing W-MODE 1.02
+12/8/2021 12:07:16 PM 15472 Updateing Launcher
+12/8/2021 12:07:16 PM 15472 url: http://winner.cspsx.de/Starcraft/Tool/Launcherupdate/
+12/8/2021 12:07:17 PM 15472 No updates available

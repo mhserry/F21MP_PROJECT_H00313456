@@ -1,0 +1,8 @@
+- Please check out the [Wiki](https://github.com/davechurchill/ualbertabot/wiki) for full instructions and documentation, once done with setup of UAlbertaBot (follow all the steps minus the downloading and zipping of UAlberta bot, this is already done. )
+- Once done with the above Per Project do the following:
+    - Click On Properties
+    - Select VC/C++ Directories.
+    - Select Additional Include Directories. 
+    - Edit the paths in the "Source" sections to match to absolute paths on your machine.
+- Open the Run C++BotAndStarCraft .bat file and edit the paths there to match the right paths on your machine (for the bot executable and StarCraft)
+- For any issues please review this video: https://www.youtube.com/watch?v=Bw2IDR5gt7c&t=353s

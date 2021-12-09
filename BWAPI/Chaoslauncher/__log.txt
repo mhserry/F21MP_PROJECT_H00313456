@@ -1,0 +1,10 @@
+[12/6/2021 1:22:58 PM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[12/6/2021 1:22:58 PM] Injected into process "Chaoslauncher.exe"
+[12/6/2021 1:22:58 PM] ICC module loaded
+[12/6/2021 1:23:07 PM] ICC module unloaded
+[12/6/2021 1:23:28 PM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[12/6/2021 1:23:28 PM] Injected into process "Chaoslauncher.exe"
+[12/6/2021 1:23:28 PM] ICC module loaded
+[12/8/2021 12:05:35 PM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[12/8/2021 12:05:35 PM] Injected into process "Chaoslauncher.exe"
+[12/8/2021 12:05:35 PM] ICC module loaded
