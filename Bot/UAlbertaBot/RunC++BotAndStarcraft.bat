@@ -1,4 +1,4 @@
 cd bin
 start cmd /c "UAlbertaBot.exe"
-cd ../starcraft
+cd ../star_craft
 start cmd /c RunStarcraftWithBWAPI.bat
